@@ -344,15 +344,6 @@ Participated in cybersecurity projects covering data security protocols and risk
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush7124&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
