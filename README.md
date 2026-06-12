@@ -332,7 +332,7 @@ Participated in cybersecurity projects covering data security protocols and risk
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush7124&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush7124 &show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush7124&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
 
 </div>
