@@ -26,9 +26,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=piyushsonawane7&style=flat-square&color=7C3AED&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/piyushsonawane7?style=flat-square&color=6D28D9&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/piyushsonawane7?style=flat-square&color=5B21B6&label=Total+Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Piyush7124&style=flat-square&color=7C3AED&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Piyush7124?style=flat-square&color=6D28D9&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/Piyush7124?style=flat-square&color=5B21B6&label=Total+Stars&logo=github)
 
 </div>
 
@@ -359,7 +359,7 @@ Participated in cybersecurity projects covering data security protocols and risk
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushsonawane7&bg_color=0D0D1A&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush7124&bg_color=0D0D1A&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
