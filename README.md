@@ -332,14 +332,14 @@ Participated in cybersecurity projects covering data security protocols and risk
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushsonawane7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsonawane7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush7124&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush7124&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsonawane7&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush7124&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" alt="GitHub Streak"/>
 
 </div>
 
@@ -349,7 +349,7 @@ Participated in cybersecurity projects covering data security protocols and risk
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyushsonawane7&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush7124&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -370,9 +370,9 @@ Participated in cybersecurity projects covering data security protocols and risk
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushsonawane7/piyushsonawane7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushsonawane7/piyushsonawane7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piyushsonawane7/piyushsonawane7/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush7124/Piyush7124/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush7124/Piyush7124/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Piyush7124/Piyush7124/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
