@@ -413,7 +413,7 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/propiyush7%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:propiyush7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/piyushsonawane7-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsonawane7)
-[![GitHub](https://img.shields.io/badge/piyushsonawane7-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushsonawane7)
+[![GitHub](https://img.shields.io/badge/Piyush7124-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush7124)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushsonawane.dev)
 
 </div>
